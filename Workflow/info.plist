@@ -127,7 +127,7 @@ Restart and remove running timers via their right-click context menu.</string>
 		</dict>
 	</array>
 	<key>version</key>
-	<string>26.1</string>
+	<string>26.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/timers-workflow/</string>
 </dict>
